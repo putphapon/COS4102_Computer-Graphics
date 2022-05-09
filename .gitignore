@@ -1,0 +1,12 @@
+*.pdf
+*.PDF
+*.ppt
+*.exe
+*.zip
+*.json
+
+.vscode/
+
+Old-Sources/
+Others/
+
